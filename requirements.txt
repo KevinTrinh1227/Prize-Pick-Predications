@@ -1,5 +1,5 @@
 requests==2.32.3
-selenium==4.25.0
+selenium==4.28.1
 flask==3.0.3
 beautifulsoup4==4.12.3
 python-dotenv==1.0.1
